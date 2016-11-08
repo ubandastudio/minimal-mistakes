@@ -21,31 +21,29 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+#  - title: "Quick-Start Guide"
+#    url: /docs/quick-start-guide/
 
   - title: "About"
     url: /about/
 
   - title: "Sample Posts"
     url: /year-archive/
+    children:
+      - title: "Recipes"
+        url: /recipes/
+      - title: "Arduino"
+        url: /arduino/
 
   - title: "Sample Collections"
     url: /collection-archive/
+  
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
-  - title: "Recipes"
-    url: /recipes/
-    
-  - title: "Arduino"
-    url: /arduino/
-
-
 # documentation links
 docs:
   - title: Getting Started
