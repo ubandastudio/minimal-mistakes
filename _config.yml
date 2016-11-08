@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Ubanda Blog"
 title_separator          : "-"
-name                     : &name "Michael Rose"
+name                     : &name "Ubanda Development Blog"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://blog.ubanda.id # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
@@ -82,16 +82,16 @@ author:
   name             : *name
   avatar           : "/assets/images/michael-rose.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  location         : "Banda Aceh, ID"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://blog.ubanda.id"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "ubandastudio"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
