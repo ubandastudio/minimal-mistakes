@@ -11,9 +11,9 @@ title                    : "Ubanda Blog"
 title_separator          : "-"
 name                     : &name "Ubanda Development Blog"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://blog.ubanda.id # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://blog.ubanda.id # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+repository               : "ubandastudio/ubandastudio.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
