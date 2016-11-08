@@ -35,6 +35,12 @@ main:
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+    
+  - title: "Portfolio"
+    url: /portfolio/
+    
+  - title: "Recipes"
+    url: /recipes/
 
 
 # documentation links
