@@ -178,6 +178,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  arduino:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -238,7 +241,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  # _arduino
+  - scope:
+      path: ""
+      type: arduino
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
