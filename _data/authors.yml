@@ -1,17 +1,17 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
+Izharul Haq:
+  name        : "Izharul Haq"
+  uri         : "http://blog.debian.or.id"
+  email       : "atoz@ubanda.id"
   bio         : "What do you want, jewels? I am a very extravagant man."
   avatar      : "/assets/images/bio-photo-2.jpg"
   twitter     : "extravagantman"
   google_plus : "BillyRick"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
+Zahrul Maizi:
+  name        : "Zahrul Maizi"
+  email       : "zahrulmaizi@ubanda.id"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   twitter     : "rhymeswithsackit"
