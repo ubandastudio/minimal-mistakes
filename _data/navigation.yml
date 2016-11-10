@@ -27,16 +27,16 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Sample Posts"
-    url: /year-archive/
-    children:
-      - title: "Recipes"
-        url: /recipes/
-      - title: "Arduino"
-        url: /arduino/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#    children:
+#      - title: "Recipes"
+#        url: /recipes/
+#      - title: "Arduino"
+#        url: /arduino/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
   
   - title: "Portfolio"
     url: /portfolio/
